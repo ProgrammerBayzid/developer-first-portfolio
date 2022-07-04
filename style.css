@@ -99,6 +99,7 @@ p{
     background-size: 100px;
     padding-top:15px ;
     background-position: 500px 10px;
+    border-top: 8px solid gray;
     
 
     
@@ -120,5 +121,9 @@ p{
     background-size: 100px;
     padding-top:15px ;
     background-position: 500px 10px;
+    border-top: 8px solid blueviolet;
     
+}
+footer p{
+    text-align: center;
 }
