@@ -1,0 +1,59 @@
+h4{
+    margin-left: 40px; 
+    margin-right: 100px;
+    text-align: justify;
+}
+h3{
+    margin-left: 20px;
+}
+h2{
+    margin-left: 20px;
+}
+h2{
+    margin-left: 20px;
+
+}
+h1{
+    margin-left: 20px;
+}
+body{
+    font-family: 'Oswald', sans-serif;
+    font-size: x-large;
+    margin: 0%;
+}
+.web{
+    color: olive;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+    
+}
+.half-width img{
+    width:100%;
+    margin-right: 20px;
+    margin-top: 100px;
+
+   
+    
+}
+.link-botton{
+    text-decoration:none;
+    background-image: linear-gradient(orange, tomato);
+    text color: white;
+    font-weight: 700;
+    padding: 10px 30px;
+    border-radius: 5px;
+    
+
+}
+.top-1banner{
+    background-image: url(bayzid2.png); 
+    background-repeat: no-repeat ;
+    
+    padding: 40px;
+    margin-bottom: 100px;
+}
